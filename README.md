@@ -6,7 +6,7 @@ Salifort Motors seeks to improve employee retention and identify the factors tha
 
 # Business Understanding 
 
-If you look at a normal work month an employee will work an average of 40 hours per week * 50 weeks / 12 months = 166.67 hours per month. During the visualization stage we were able to conclude that Salifort Motor employees were overworked, with a significant amount of employees working over 200 average hours per month.
+If you look at a normal work month an employee will work an average of 40 hours per week * 50 weeks / 12 months = 166.67 hours per month. During the visualization stage we were able to conclude that Salifort Motor employees were overworked, with a significant amount of employees working over 175 average hours per month.
 
 # Data Understanding 
 
