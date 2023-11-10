@@ -28,7 +28,7 @@ A random forest model was used to determine feature importance on whether an emp
 # Conclusion
 
 The model can confirm that employees are being overworked, some recommendations to take note of are:
-- Limit the number of project an employee can work on, or at least ensure that they are capable of handling the workload.
+- Limit the number of projects an employee can work on, or at least ensure that they are capable of handling the workload.
 - Employees who work longer hours and perform well should be rewarded by the company and promoted.
 - The company should set guidlines for employees with regards to expectations for workload, and the overtime policy of the company.
 - Investigate why employees who leave after 4 years have unusually low satisfaction levels.
