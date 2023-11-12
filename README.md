@@ -12,7 +12,7 @@ If you look at a normal work month an employee will work an average of 40 hours 
 
 The Salifort Motors data came from Coursera Google Advanced data analytics course. The data consisted of approximately 11991 unique enteries and 10 features. The features included if the employee was a present employee, their average monthly hours, their satisfaction level, their last evaluation score and their tenure in the company to name a few.
 
-In connection to this, a feature was engineered to represent if an employee was overworked or no. An employee was considered overworked if they worked an average of more than 175 hour per month.
+In connection to this, a feature was engineered to represent if an employee was overworked or not. An employee was considered overworked if they worked an average of more than 175 hour per month.
 
 <img width="339" alt="image" src="https://github.com/matthew1060/HR-Analysis/assets/62417078/272e4691-824f-4b89-a198-df38df293ac2">
 
